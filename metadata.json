@@ -1,0 +1,8 @@
+{
+  "name": "UD Rez Wan Jaya Banjarmasin",
+  "description": "Pusat Grosir Blangko Undangan \u0026 Spesialis Undangan Pernikahan Digital Interaktif di Kalimantan Selatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
